@@ -1,0 +1,5 @@
+.env
+state.sqlite3
+report.csv
+__pycache__/
+.pytest_cache/
